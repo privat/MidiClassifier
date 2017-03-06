@@ -23,9 +23,10 @@ Inspiré des sites des références :
   * make
   * ./midiparser \{fichierMidi.mid\}
   * Le programme va alors afficher les tracks en cours d'analyse et aux finales, les notes retrouvés ainsi que leurs durées.
-  
+
 ## Fichier de tests
-	Des fichiers Midi peuvent être trouvés par les liens suivants :
+
+Des fichiers Midi peuvent être trouvés par les liens suivants :
  - [VgMusic](http://www.vgmusic.com/)
  - [mididb](http://mididb.com/)
  - [piano-midi](http://www.piano-midi.de/)
@@ -49,7 +50,7 @@ Inspiré des sites des références :
 
 ## Fichiers de tests
   Des fichiers de tests peuvent être trouvés dans le folder Prefix.
-  Attention : Dû à une erreur dans le fonctionnement de la fonction is_num en Nit pour certains caractères, tout fichiers de données String doivent être composés au min de 2 caractères. 
+  Attention : Dû à une erreur dans le fonctionnement de la fonction is_num en Nit pour certains caractères, tout fichiers de données String doivent être composés au min de 2 caractères.
 
 #Algorithme Clustering hiérachique
 
